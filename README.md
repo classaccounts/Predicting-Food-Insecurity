@@ -8,7 +8,7 @@ I created this README as a TLDR for my notebook with my main findings. Please en
 
 ## Jupyter Notebook on GitHub Pages
 
-You can view the Jupyter Notebook in HTML form on your web browser at this address: https://classaccounts.github.io/Predicting-Food-Insecurity/
+View the Jupyter Notebook on your web browser at this address: https://classaccounts.github.io/Predicting-Food-Insecurity/
 
 ## Topic
 
