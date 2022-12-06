@@ -10,6 +10,8 @@ I created this README as a TLDR for my notebook with my main findings. Please en
 
 View the Jupyter Notebook on your web browser at this address: https://classaccounts.github.io/Predicting-Food-Insecurity/
 
+*Note: Plotly Express graphics will not display in HTML form*
+
 ## Topic
 
 I am trying to address food insecurity in the United States and identify geographic areas where food programs like the Supplemental Nutrition Assistance Program (SNAP), Special Supplemental Nutrition Program for Women (WIC),  National School Lunch Program (NSLP), and Emergency Food Assistance Program (TEFAP) could be targeted. Those organizations allocate funding based on geographic areas with the greatest need. Therefore, it is essential to address this issue to ensure the right communities get the proper support through these programs to alleviate many health disparities caused by poor nutrition and food insecurity (FI).
