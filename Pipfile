@@ -1,0 +1,28 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+ipykernel = "*"
+jupyter = "*"
+notebook = "*"
+pandas = "*"
+openpyxl = "*"
+requests = "*"
+plotly = "*"
+plotly-geo = "*"
+geopandas = "*"
+numpy = "*"
+shapely = "*"
+pyshp = "*"
+redivis = "*"
+cenpy = "*"
+sklearn = "*"
+matplotlib = "*"
+xgboost = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
