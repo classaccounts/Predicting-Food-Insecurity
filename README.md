@@ -2,11 +2,11 @@
 
 I created this README as a TLDR for my notebook with my main findings. Please ensure you run and explore the interactive graphs on the notebook and view my iterative process in building the final model.
 
-## Installing Dependencies
+### Installing Dependencies
 
 - run `pipenv install`.
 
-## Jupyter Notebook on GitHub Pages
+### Jupyter Notebook on GitHub Pages
 
 View the Jupyter Notebook on your web browser at this address: https://classaccounts.github.io/Predicting-Food-Insecurity/
 
