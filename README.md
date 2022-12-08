@@ -4,9 +4,7 @@ I created this README as a TLDR for my notebook with my main findings. Please en
 
 ### Credit 
 
-Feeding America provides the target datasets.
-
-https://www.feedingamerica.org/
+Feeding America provides the target datasets. https://www.feedingamerica.org/
 
 ### Installing Dependencies
 
