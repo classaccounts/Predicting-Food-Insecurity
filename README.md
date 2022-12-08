@@ -2,6 +2,12 @@
 
 I created this README as a TLDR for my notebook with my main findings. Please ensure you run and explore the interactive graphs on the notebook and view my iterative process in building the final model.
 
+### Credit 
+
+Feeding America provides the target datasets.
+
+https://www.feedingamerica.org/
+
 ### Installing Dependencies
 
 - run `pipenv install`.
